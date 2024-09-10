@@ -14,7 +14,7 @@
     <?php
     include 'query.php'; 
     
-    // Get the data from query.php
+ 
     $data = include 'query.php';
     
     // Check if there are results and process them
