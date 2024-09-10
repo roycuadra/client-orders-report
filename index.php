@@ -12,7 +12,7 @@
     
     
     <?php
-    include 'query.php'; // Include query execution file
+    include 'query.php'; 
     
     // Get the data from query.php
     $data = include 'query.php';
